@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Intern';
+  afuConfig = {
+    uploadAPI: {
+      url: 'https://httpbin.org/post',
+    },
+  };
 }

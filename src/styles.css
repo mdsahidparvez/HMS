@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+
+body{
+  background: url(./assets/pic/login.jpg) no-repeat center fixed;
+  background-position: 0px 0px;
+  -webkit-background-size: 100% 100%;
+  -moz-background-size: 100% 100%;
+  -o-background-size: 100% 100%;
+  background-size: 100% 100%;
+}
+*
+{
+  font-family: 'Roboto', sans-serif;
+}
